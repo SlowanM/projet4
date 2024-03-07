@@ -1,0 +1,15 @@
+$bg-primary-color: white;
+$primary-color: rgba(176, 32, 233, 0.856);
+$font-family:'Raleway', sans-serif;
+
+body{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.header img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
